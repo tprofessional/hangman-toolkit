@@ -1,5 +1,7 @@
+//Final program
 //Authors: Julia Zhao, Trisha Moorkoth
 //Version: 2.0
+//Revision date: 2/8/21
 
 //to get user input
 import java.util.Scanner;

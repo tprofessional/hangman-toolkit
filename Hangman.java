@@ -1,3 +1,7 @@
+//Preliminary program
+//Authors: Julia Zhao, Trisha Moorkoth, Karen Zhao
+//Version 1.0
+//Revision date: 1/29/21
 import java.util.Scanner;
 import java.awt.Toolkit;
 
